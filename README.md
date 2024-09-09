@@ -6,12 +6,12 @@
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=YeoniSon&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+</a><br>
 
 ---
 <!-- 내용부분 -->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
+<h2 >✨ Tech Stack ✨</h2>
+<div >
   <img src="http://img.shields.io/badge/JavaScript-COLOR?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E" />
   <img src="http://img.shields.io/badge/Node.js-COLOR?style=flat&logo=Node.js&logoColor=white&color=5FA04E"/>
   <img src="http://img.shields.io/badge/HTML5-COLOR?style=flat&logo=HTML5&logoColor=white&color=E34F26"/>
@@ -24,19 +24,19 @@
   <img src="http://img.shields.io/badge/MariaDB-COLOR?style=flat&logo=MariaDB&logoColor=white&color=003545" />
   <img src="http://img.shields.io/badge/AWS-COLOR?style=flat&logo=amazonwebservices&logoColor=white&color=232F3E" />
   
-</div>
+</div><br>
 
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
+<h2>🛠 Tools 🛠</h2>
+<div>
   <img src="http://img.shields.io/badge/GitHub-COLOR?style=flat&logo=github&logoColor=white&color=181717" />
   <img src="http://img.shields.io/badge/Figma-COLOR?style=flat&logo=figma&logoColor=white&color=F24E1E" />
   <img src="http://img.shields.io/badge/IntelliJ-COLOR?style=flat&logo=intellijidea&logoColor=white&color=000000" />
   <img src="http://img.shields.io/badge/VisualStudioCode-Color?style=flat&logo=vscode&logoColor=white&color=40AEF0" />
   <img src="http://img.shields.io/badge/Postman-Color?style=flat&logo=postman&logoColor=white&color=FF6C37" />
-</div>
+</div><br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<h2 >📫 Contact 📫</h2>
+<div >
   <a href="mailto:sjy8211@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</div>
+</div><br>
