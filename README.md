@@ -2,8 +2,6 @@
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoniSon&count_bg=%236AD9CB&title_bg=%23727272&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://github.com/YeoniSon)
-
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=YeoniSon&theme=tokyonight&show_icons=true" width="42%" />
 </a><br>
