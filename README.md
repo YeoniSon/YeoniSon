@@ -2,11 +2,6 @@
 
 ---
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeoniSon&theme=tokyonight&show_icons=true" width="42%" />
-</a><br>
-
----
 <!-- 내용부분 -->
 <h2 >✨ Tech Stack ✨</h2>
 <div >
